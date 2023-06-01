@@ -1,3 +1,11 @@
+<!--
+ * @Author: guojinxin_hub 1907745233@qq.com
+ * @Date: 2023-06-01 16:28:02
+ * @LastEditors: guojinxin_hub 1907745233@qq.com
+ * @LastEditTime: 2023-06-01 16:28:19
+ * @FilePath: \vue-antd-admin\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 简体中文 | [English](./README.en-US.md)
 <h1 align="center">Vue Antd Admin</h1>
 
@@ -58,3 +66,4 @@ $ npm run serve
   <img src="./src/assets/img/alipay.png" width="320px" style="display: inline-block;" />
   <img src="./src/assets/img/wechatpay.png" width="320px" style="display: inline-block; margin-left: 24px;" />
 </p>
+22222222
